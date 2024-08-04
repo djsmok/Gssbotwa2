@@ -3,13 +3,13 @@ const chalk = require('chalk');
 
 
 // Other
-global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
-global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
+global.link = 'https://whatsapp.com/channel/0029VakZlEWADTO7wALz1Y39'
+global.linkGroup = 'https://chat.whatsapp.com/IEAvMAaiKhbDO9KzYR6ZyX'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = "𝑆𝛪𝐷 𝐵𝛨𝛥𝛪";
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
+global.ownername = "SMOKE 𝑨𝑫S ";
+global.owner = ['233539958864'];
+global.premium = ['233539958864'];
 global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
 global.author = "𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫";
 global.sessionName = 'session';
@@ -21,7 +21,7 @@ global.autoread = false
 global.available = false
 global.autoTyping = false
 global.autoRecord = false
-global.autoreact = false
+global.autoreact = true
 global.onlygroup = false
 global.onlypc = false
 global.welcome = true
